@@ -40,9 +40,6 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  double _lat = 49.452030;
-  double _long = 11.076750;
-
   TextEditingController _latController = new TextEditingController();
   TextEditingController _longController = new TextEditingController();
 
